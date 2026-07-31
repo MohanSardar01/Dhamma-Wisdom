@@ -1,6 +1,0 @@
-{
-  "name": "Dhamma Wisdom",
-  "description": "Inspirational wisdom, quotes and AI reflections from Dr. B.R. Ambedkar, Gautama Buddha, Emperor Ashoka & Buddhist philosophers.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
